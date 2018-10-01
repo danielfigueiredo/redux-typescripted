@@ -1,0 +1,1 @@
+export const ensureNever = (action: never) => action;
